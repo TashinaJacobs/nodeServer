@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:server" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashinaJacobs/nodeServer.git"
+  },
+  "author": "Tashina Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashinaJacobs/nodeServer/issues"
+  },
+  "homepage": "https://github.com/TashinaJacobs/nodeServer#readme"
+}
